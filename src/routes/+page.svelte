@@ -14,7 +14,6 @@
 	title="Elevate your business with thoughtful design"
 	subtitle="Solutions that enhance user experience, and improve visual communication."
 	imageSrc="/sample.png"
-	generating
 />
 <LogoScroller
 	label="Trusted by industry leaders"
