@@ -11,7 +11,7 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
+	title="Good Morning"
 	subtitle="Solutions that enhance user experience, and improve visual communication."
 	imageSrc="/sample.png"
 />
