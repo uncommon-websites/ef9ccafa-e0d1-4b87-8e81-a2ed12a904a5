@@ -11,7 +11,7 @@
 </script>
 
 <Hero
-	title="Good Morning"
+	title="Hello World"
 	subtitle="Solutions that enhance user experience, and improve visual communication."
 	imageSrc="/sample.png"
 />
